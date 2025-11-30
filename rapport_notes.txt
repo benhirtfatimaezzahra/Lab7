@@ -1,0 +1,9 @@
+=== Rapport de la classe ===
+Notes de départ (sur 100) : [60, 45, 75, 40, 85, 65, 95, 50]
+Notes ramenées sur 20 : [12.0, 9.0, 15.0, 8.0, 17.0, 13.0, 19.0, 10.0]
+Notes bonus (+1) : [13.0, 10.0, 16.0, 9.0, 18.0, 14.0, 20.0, 11.0]
+Moyenne initiale : 12.88
+Moyenne après bonus : 13.88
+Minimum : 8.0
+Maximum : 19.0
+Notes ≥ 12 : [12.0, 15.0, 17.0, 13.0, 19.0] (total 5)
